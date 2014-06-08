@@ -9,6 +9,10 @@ chmod +x /etc/init.d/nginx
 echo "Depends..."
 apt-get install -y libpcre3-dev zlib1g-dev libcurl4-openssl-dev libssl-dev
 
+#create directory & copy phpinfo.php
+mkdir /var/www/public
+cp info.php /var/www/public
+
 #Set Startup Items
 echo "StartUp..."
 update-rc.d -f nginx defaults
