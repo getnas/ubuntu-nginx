@@ -52,8 +52,11 @@
 192.168.1.7 - - [07/Jun/2014:21:15:48 +0800] "GET /img/logo-tt.png HTTP/1.1" 304 0 "http://192.168.1.110/" "Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0"
 192.168.1.7 - - [07/Jun/2014:21:15:51 +0800] "GET /info.php HTTP/1.1" 200 20397 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0"
 192.168.1.7 - - [07/Jun/2014:22:25:37 +0800] "GET /info.php HTTP/1.1" 200 20393 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0"
+<<<<<<< HEAD
 192.168.1.7 - - [07/Jun/2014:23:46:32 +0800] "GET /info.php HTTP/1.1" 502 537 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0"
 192.168.1.7 - - [07/Jun/2014:23:51:00 +0800] "GET /info.php HTTP/1.1" 404 47 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0"
 192.168.1.7 - - [07/Jun/2014:23:51:05 +0800] "GET /info.php HTTP/1.1" 404 47 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0"
 192.168.1.7 - - [07/Jun/2014:23:51:05 +0800] "GET /info.php HTTP/1.1" 404 47 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0"
 192.168.1.7 - - [07/Jun/2014:23:51:48 +0800] "GET /info.php HTTP/1.1" 200 20109 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0"
+=======
+>>>>>>> origin/master
