@@ -10,6 +10,7 @@ echo "Depends..."
 apt-get install -y libpcre3-dev zlib1g-dev libcurl4-openssl-dev libssl-dev
 
 #create directory & copy phpinfo.php
+mkdir /var/www
 mkdir /var/www/public
 cp info.php /var/www/public
 
